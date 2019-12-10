@@ -1,0 +1,10 @@
+Sydney,120,80,20
+Melbourne,121,82,22
+Canberra,122,83,23
+Chennai,125,85,25
+Delhi,95,95,30
+Andorra la Vella,-130.29,-125,130
+Kabul,20,30,500
+Tirana,-29,-1,10
+Yerevan,-13.09,-5,10
+Luanda,20.33,-13.50,500
